@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+  }
+
+
+
+
+  h1 {
+    color: red;
+  }
+  
+  h2 {
+    color: blue;
+  }
+  
+  #bar {
+    color: green
+  }
+  
+  .foo {
+    color: purple;
+  
+  }
+
+
+  body {
+
+    background: Dusty White: #edf756;
+  }
+  div {
+    styling_property: value of rule;
+  }
